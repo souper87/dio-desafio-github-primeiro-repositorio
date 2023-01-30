@@ -2,7 +2,7 @@
 
 ## Professores: Otávio Reis Perkles 
 
-##                                                   Venilton Falvo Jr.                          
+##              Venilton Falvo Jr.                          
 
 ### Links Comandos Git: 
 
@@ -57,6 +57,3 @@
 - Typora
 
   https://typora.io/
-
-
-
